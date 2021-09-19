@@ -8,7 +8,7 @@
   <br><br>
   <img src="https://media.discordapp.net/attachments/882005026921402508/888939628747452426/image0.gif">
   <br><br>
-  <img src="https://discord.c99.nl/widget/theme-4/584774674962186250.png">
+  <img src="https://lanyard-profile-readme.vercel.app/api/584774674962186250">
 </p>
 
 -----
