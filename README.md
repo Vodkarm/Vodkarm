@@ -8,15 +8,15 @@
   <br><br>
   <img src="https://media.discordapp.net/attachments/882005026921402508/888939628747452426/image0.gif">
   <br><br>
-  <img src="https://lanyard-profile-readme.vercel.app/api/584774674962186250">
+  <img src="https://discord.c99.nl/widget/theme-5/584774674962186250.png">
 </p>
 
 -----
 
 ```diff
-👤 >> 16 years old, french.
-🗣️ >> Its_Vichy@protonmail.com
-🐺 >> Learn c, asm. Working on HBot
+👤 >> I'm a French Developper
+🗣️ >> s.vodkarm@gmail.com
+🐺 >> Learning HTML5 and CSS3 !
 ```
 
 -----
@@ -24,7 +24,7 @@
 <h1 align="center">LANGUAGE</h1>
 
 <p align="center"> 
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp; |
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp; |
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>&nbsp; |
   <code><img height="25" src="https://img2.freepng.fr/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg"></code>&nbsp;
 </p>
