@@ -1,7 +1,7 @@
 <h1 align="center">HELLO WORLD</h1>
 
 <p align="center">
-  <b>🖤 Follow me here:</b><br>
+  <b>🖤 Support me here: </b><br>
   <a href="https://dsc.gg/top-hoster">Discord</a> |
   <a href="https://vm.tiktok.com/ZMR4UXWo9/">Tiktok</a> |
   <a href="https://github.com/Vodkarm">Github</a>
@@ -45,3 +45,10 @@
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vodkarm&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Vodkarm's stats" /> </p>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vodkarm&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></p>
+
+---  
+
+<p align="center"> 
+  Visits:<br>
+  <img src="https://profile-counter.glitch.me/Vodkarm/count.svg" />
+</p>
