@@ -6,9 +6,9 @@
   <a href="https://vm.tiktok.com/ZMR4UXWo9/">Tiktok</a> |
   <a href="https://github.com/Vodkarm">Github</a>
   <br><br>
-  <img src="https://media.discordapp.net/attachments/882005026921402508/888939628747452426/image0.gif">
+  <img src="https://i.postimg.cc/3JswbQnD/65-F72-C8-B-D0-C4-4-AAC-A7-E8-E81-FBAC78-B25.gif">
   <br><br>
-  <img src="https://discord.c99.nl/widget/theme-5/584774674962186250.png">
+  <img src="https://discord.c99.nl/widget/theme-4/584774674962186250.png">
 </p>
 
 -----
