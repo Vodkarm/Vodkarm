@@ -50,5 +50,5 @@
 
 <p align="center"> 
   Visits:<br>
-  <img src="https://profile-counter.glitch.me/Vodkarm/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Vodkarm&color=red" />
 </p>
