@@ -37,7 +37,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Vodkarm?style=social">
   <img src="https://img.shields.io/github/stars/Vodkarm?style=social">
-  <img src="https://komarev.com/ghpvc/?username=Vodkarm&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=Vodkarm&color=red">
 </p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=vodkarm">
