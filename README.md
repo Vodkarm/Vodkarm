@@ -15,8 +15,8 @@
 
 ```diff
 👤 >> I'm a French Developper
-🗣️ >> s.vodkarm@gmail.com
-🐺 >> Learning HTML5 and CSS3 !
+🗣️ >> vodkarm06@gmail.com
+🐺 >> Learning HTML5, CSS3 and PYTHON !
 ```
 
 -----
