@@ -8,7 +8,7 @@
   <br><br>
   <img src="https://i.postimg.cc/3JswbQnD/65-F72-C8-B-D0-C4-4-AAC-A7-E8-E81-FBAC78-B25.gif">
   <br><br>
-  ![My Discord](https://discord-readme-badge.vercel.app/api?id=584774674962186250)
+  <img src="https://discord-readme-badge.vercel.app/api?id=584774674962186250">
 </p>
 
 -----
