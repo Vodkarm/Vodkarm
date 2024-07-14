@@ -41,11 +41,11 @@
 <h2 align="center">📊 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Vodkarm&theme=redical" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vodkarm&theme=redical" alt="Activity Graph">
 </p>
 
 -----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vodkarm&color=pink" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Vodkarm&color=red" alt="Profile views">
 </p>
