@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/3JswbQnD/65-F72-C8-B-D0-C4-4-AAC-A7-E8-E81-FBAC78-B25.gif" alt="Animated GIF">
+  <img src="https://s12.gifyu.com/images/StixC.gif" alt="Animated GIF">
 </p>
 
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
@@ -9,8 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://dsc.gg/top-hoster"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://vm.tiktok.com/ZMR4UXWo9/"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
   <a href="https://github.com/Vodkarm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
