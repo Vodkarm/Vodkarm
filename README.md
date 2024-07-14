@@ -41,7 +41,7 @@
 <h2 align="center">📊 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vodkarm&theme=redical" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vodkarm&theme=redical" alt="Activity Graph">
 </p>
 
 -----
