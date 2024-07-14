@@ -47,5 +47,5 @@
 -----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vodkarm&color=purple" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Vodkarm&color=pink" alt="Profile views">
 </p>
